@@ -14,4 +14,4 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
       src="${w}"
       alt="${S}"
     /></a>
- </li>`).join("")}new F(".gallery a",{captionsData:"alt",captionDelay:250});
+ </li>`).join("")}new F(".gallery a",{captionsData:"alt",captionDelay:250});console.log("hello");
